@@ -33,8 +33,7 @@
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-</br></br></br></br>
-
+</br></br>
 ### ☕ Get in touch
 <p>
 <a href="mailto:azeemolatunji@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>

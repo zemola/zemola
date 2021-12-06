@@ -3,8 +3,8 @@
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Zemola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Programming**
+### Here are some informations about me:</br>
+- 🔭 I’m currently more into **Programming**
 - 📫 I'm currently a microverse **student**
 - 🌱 I’m currently learning **Open Source Contribution.**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
